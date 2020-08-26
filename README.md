@@ -17,7 +17,7 @@ settings can then be loaded by `test_frcnn.py` for any testing.
 
 - test_frcnn.py can be used to perform inference, given pretrained weights and a config file. Specify a path to the folder containing
 images:
-    `!python test_frcnn.py -p test_images
+    `!python test_frcnn.py -p test_images`.
 - Data augmentation can be applied by specifying `--hf` for horizontal flips, `--vf` for vertical flips and `--rot` for 90 degree rotations
 
 
