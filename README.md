@@ -2,6 +2,8 @@
 Keras implementation of Faster R-CNN
 
 USAGE:
+Extract the train_test_datset to the folder in which you run the ipynb file
+
  - simple_parser.py provides an alternative way to input data, using a text file. Simply provide a text file, with each
 line containing:
 
